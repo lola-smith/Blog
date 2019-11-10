@@ -1,0 +1,8 @@
+.comments, .comments li { 
+    margin:0px;
+    padding:0px;
+}
+.comments li {
+
+    list-style:none;
+}
